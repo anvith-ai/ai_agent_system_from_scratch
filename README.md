@@ -78,7 +78,7 @@ cd ai_agent_system_from_scratch
 pip install -r requirements.txt
 ```
 
-3. Create a `.env` file with your API keys:
+3. update `.env` file with your API keys:
 ```env
 OPENAI_API_KEY=your_openai_api_key
 OPENWEATHERMAP_API_KEY=your_openweathermap_api_key
@@ -150,14 +150,6 @@ The system includes comprehensive error handling for:
 - OpenAI API key
 - OpenWeatherMap API key
 - Required packages listed in `requirements.txt`
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Add new features or fixes
-4. Ensure tests pass
-5. Submit a pull request
 
 ## Future Enhancements
 
