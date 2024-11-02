@@ -5,7 +5,7 @@ A flexible and extensible AI agent system that combines LLM capabilities with cu
 ## Project Structure
 
 ```
-agent_system_from_scratch/
+ai_agent_system_from_scratch/
 │
 ├── README.md
 ├── requirements.txt
