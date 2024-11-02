@@ -70,7 +70,7 @@ ai_agent_system_from_scratch/
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd agent_system
+cd ai_agent_system_from_scratch
 ```
 
 2. Install dependencies:
